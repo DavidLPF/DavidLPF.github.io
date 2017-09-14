@@ -22,4 +22,5 @@ Function: Thermal insulation, Sound absorption
 
 
 
-
+##Application
+Rock wool insulation materials are widely used in construction wall, roof, industrial furnace, oven, heat-treating equipment, storage tank, storage groove, power house, flue, petrifaction and oil refining equipment and all kinds of keeping-warm and heat insulation pipelines.
